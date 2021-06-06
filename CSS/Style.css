@@ -1,0 +1,29 @@
+.container {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+nav {
+    color:white;
+    float: left;
+    word-spacing: 30px;
+    font-size: 20pt; 
+    text-indent: 20px;
+
+}
+
+
+
+
+h1 {
+    text-align: center;
+}
+img {
+    width: 100%
+}
+header {
+    background-color: black;
+
+}
